@@ -1,0 +1,18 @@
+{
+  "name": "आकाश ऑनलाइन | Aakash Online Jan Seva Kendra",
+  "short_name": "Aakash Online",
+  "description": "PAN card, passport, ration card, photocopy, form filling and online applications — all in one place.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fbf8f2",
+  "theme_color": "#12233f",
+  "lang": "hi-IN",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
